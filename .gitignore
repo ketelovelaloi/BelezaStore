@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+/npm-debug.log
+/yarn-error.log
+
+# React Native
+*.js
+*.jsx
+*.ts
+*.tsx
+*.json
+*.ios.json
+*.android.json
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Build
+build/
